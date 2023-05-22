@@ -1,0 +1,16 @@
+# ninja log v5
+6	932	1684770505179815527	CMakeFiles/ImageProcessor.dir/image_processor.cpp.o	630ba6451bcbc648
+7	1032	1684770505280253654	CMakeFiles/ImageProcessor.dir/parser.cpp.o	d1d7368d55046408
+1390	1517	1684770892789092330	ImageProcessor	8fccc86c47d3bc1b
+1	125	1684771063348882918	build.ninja	bdfa0a11dc7e3ef8
+17	1390	1684770892652406416	CMakeFiles/ImageProcessor.dir/negative.cpp.o	570a39e04a98500c
+824	1305	1684770505554972225	CMakeFiles/ImageProcessor.dir/blur.cpp.o	7c441814a9ba0bd5
+6	823	1684770505069055639	CMakeFiles/ImageProcessor.dir/glass.cpp.o	ccc8a6a590b2934b
+7	899	1684770505147300547	CMakeFiles/ImageProcessor.dir/image.cpp.o	74993036d90794b1
+6	816	1684770505062455102	CMakeFiles/ImageProcessor.dir/gray_scale.cpp.o	7c4de9a9ba108adc
+816	1265	1684770505514989089	CMakeFiles/ImageProcessor.dir/crop.cpp.o	931550de8bf5a534
+923	1399	1684770505648611442	CMakeFiles/ImageProcessor.dir/wave.cpp.o	16ebdb5a4a4b36b3
+6	923	1684770505170775840	CMakeFiles/ImageProcessor.dir/paint.cpp.o	e5609a63499552ce
+814	1356	1684770505606217448	CMakeFiles/ImageProcessor.dir/edge.cpp.o	cb89937a4822c3b0
+6	926	1684770505173228782	CMakeFiles/ImageProcessor.dir/sketch.cpp.o	d8abf23b4fd59e5e
+899	1436	1684770505684927645	CMakeFiles/ImageProcessor.dir/sharp.cpp.o	267988aeaa06cf28
