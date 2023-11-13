@@ -768,6 +768,4 @@ CMakeFiles/ImageProcessor.dir/image_processor.cpp.o: \
   /Users/artemijnovikov/CLionProjects/ImageFilter/command-parser/../filters/basic/sharp.h \
   /Users/artemijnovikov/CLionProjects/ImageFilter/command-parser/../filters/custom/paint.h \
   /Users/artemijnovikov/CLionProjects/ImageFilter/command-parser/../filters/custom/sketch.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/map \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__tree \
   /Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/filter.h

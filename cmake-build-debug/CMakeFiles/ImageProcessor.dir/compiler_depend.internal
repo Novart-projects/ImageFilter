@@ -769,8 +769,6 @@ CMakeFiles/ImageProcessor.dir/command-parser/parser.cpp.o
  /Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/sharp.h
  /Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/paint.h
  /Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/sketch.h
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/map
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__tree
 
 CMakeFiles/ImageProcessor.dir/filters/basic/blur.cpp.o
  /Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/blur.cpp
@@ -9877,7 +9875,5 @@ CMakeFiles/ImageProcessor.dir/image_processor.cpp.o
  /Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/sharp.h
  /Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/paint.h
  /Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/sketch.h
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/map
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__tree
  /Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/filter.h
 

@@ -11,7 +11,7 @@
 #include "../filters/custom/paint.h"
 #include "../filters/custom/sketch.h"
 
-#include <map>
+#include <unordered_map>
 #include <memory>
 #include <queue>
 
@@ -25,11 +25,11 @@ public:
 
 private:
     enum class Filters { BLUR, CROP, SHARP, EDGE, GRAY_SCALE, NEGATIVE, PAINT, SKETCH, GLASS, WAVE };
-    inline static const std::map<std::string, uint8_t> GOOD_PARAMETERS = {
+    inline static const std::unordered_map<std::string, uint8_t> PARAMETERS_ARGS_CNT = {
         {"-blur", 1}, {"-gs", 0},     {"-neg", 0},   {"-sharp", 0}, {"-edge", 1},
         {"-crop", 2}, {"-sketch", 0}, {"-paint", 0}, {"-glass", 0}, {"-wave", 0}};
 
-    inline static const std::map<std::string, Filters> GOOD_PARAMETER_SWITCH = {
+    inline static const std::unordered_map<std::string, Filters> GOOD_PARAMETER_SWITCH = {
         {"-blur", Filters::BLUR},     {"-gs", Filters::GRAY_SCALE}, {"-neg", Filters::NEGATIVE},
         {"-sharp", Filters::SHARP},   {"-edge", Filters::EDGE},     {"-crop", Filters::CROP},
         {"-sketch", Filters::SKETCH}, {"-paint", Filters::PAINT},   {"-glass", Filters::GLASS},

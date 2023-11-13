@@ -29,12 +29,12 @@ Parser::Parser(int argc, char** argv) {
     input_path_ = std::filesystem::path(argv[1]);
     output_path_ = std::filesystem::path(argv[2]);
     for (size_t i = 3; i < argc; ++i) {
-        if (GOOD_PARAMETERS.find(argv[i]) != GOOD_PARAMETERS.end()) {
+        if (PARAMETERS_ARGS_CNT.find(argv[i]) != PARAMETERS_ARGS_CNT.end()) {
             std::vector<double> params;
-            if (i + 1 + GOOD_PARAMETERS.at(argv[i]) > argc) {
+            if (i + 1 + PARAMETERS_ARGS_CNT.at(argv[i]) > argc) {
                 throw std::runtime_error("Parameter error: invalid filter parameter count for " + std::string(argv[i]));
             }
-            for (size_t j = 0; j < GOOD_PARAMETERS.at(argv[i]) && i + j < argc; ++j) {
+            for (size_t j = 0; j < PARAMETERS_ARGS_CNT.at(argv[i]) && i + j < argc; ++j) {
                 double a = NAN;
                 try {
                     a = std::stod(argv[i + j + 1]);
@@ -88,7 +88,7 @@ Parser::Parser(int argc, char** argv) {
                     filters_sequence_.push(std::make_unique<Wave>());
                     break;
             }
-            i += GOOD_PARAMETERS.at(argv[i]);
+            i += PARAMETERS_ARGS_CNT.at(argv[i]);
         } else {
             throw std::runtime_error("Parameter error: no parameter with name " + std::string(argv[i]));
         }

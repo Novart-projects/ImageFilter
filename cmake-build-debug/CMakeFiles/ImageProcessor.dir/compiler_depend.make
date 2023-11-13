@@ -767,9 +767,7 @@ CMakeFiles/ImageProcessor.dir/command-parser/parser.cpp.o: /Users/artemijnovikov
   /Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/wave.h \
   /Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/sharp.h \
   /Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/paint.h \
-  /Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/sketch.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/map \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__tree
+  /Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/sketch.h
 
 CMakeFiles/ImageProcessor.dir/filters/basic/blur.cpp.o: /Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/blur.cpp \
   /Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/blur.h \
@@ -9864,8 +9862,6 @@ CMakeFiles/ImageProcessor.dir/image_processor.cpp.o: /Users/artemijnovikov/CLion
   /Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/sharp.h \
   /Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/paint.h \
   /Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/sketch.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/map \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__tree \
   /Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/filter.h
 
 
@@ -9880,8 +9876,6 @@ CMakeFiles/ImageProcessor.dir/image_processor.cpp.o: /Users/artemijnovikov/CLion
 /Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/crop.cpp:
 
 /Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/blur.cpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/map:
 
 /Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/sketch.h:
 
@@ -10404,8 +10398,6 @@ CMakeFiles/ImageProcessor.dir/image_processor.cpp.o: /Users/artemijnovikov/CLion
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_nothrow_convertible.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__compare/compare_weak_order_fallback.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__tree:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/reverse_copy.h:
 
