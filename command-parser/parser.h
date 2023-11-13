@@ -1,15 +1,15 @@
 #pragma once
 
-#include "filters/crop.h"
-#include "filters/blur.h"
-#include "filters/gray_scale.h"
-#include "filters/negative.h"
-#include "filters/glass.h"
-#include "filters/edge.h"
-#include "custom_filters/wave.h"
-#include "filters/sharp.h"
-#include "custom_filters/paint.h"
-#include "custom_filters/sketch.h"
+#include "../filters/basic/crop.h"
+#include "../filters/basic/blur.h"
+#include "../filters/basic/gray_scale.h"
+#include "../filters/basic/negative.h"
+#include "../filters/custom/glass.h"
+#include "../filters/basic/edge.h"
+#include "../filters/custom/wave.h"
+#include "../filters/basic/sharp.h"
+#include "../filters/custom/paint.h"
+#include "../filters/custom/sketch.h"
 
 #include <map>
 #include <memory>

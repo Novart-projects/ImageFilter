@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ImageProcessor"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ImageProcessor">
+				<Option output="/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/ImageProcessor" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 ImageProcessor"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ImageProcessor/fast">
+				<Option output="/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/ImageProcessor" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 ImageProcessor/fast"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/artemijnovikov/CLionProjects/ImageFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/command-parser/parser.cpp">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/command-parser/parser.h">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/blur.cpp">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/blur.h">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/crop.cpp">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/crop.h">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/edge.cpp">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/edge.h">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/gray_scale.cpp">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/gray_scale.h">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/negative.cpp">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/negative.h">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/sharp.cpp">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/basic/sharp.h">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/glass.cpp">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/glass.h">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/paint.cpp">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/paint.h">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/sketch.cpp">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/sketch.h">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/wave.cpp">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/filters/custom/wave.h">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/image/image.cpp">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/image/image.h">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/image_processor.cpp">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/image_processor.h">
+			<Option target="ImageProcessor"/>
+		</Unit>
+		<Unit filename="/Users/artemijnovikov/CLionProjects/ImageFilter/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

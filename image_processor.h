@@ -1,8 +1,8 @@
 #pragma once
 
-#include "image.h"
-#include "parser.h"
-#include "filters/filter.h"
+#include "image/image.h"
+#include "command-parser/parser.h"
+#include "filters/basic/filter.h"
 
 class ImageProcessor {
 public:
