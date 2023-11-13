@@ -1,6 +1,6 @@
 #pragma once
 
-#include "image.h"
+#include "../image.h"
 #include <cmath>
 #include <ctime>
 #include <iostream>

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "filter.h"
+#include "../filters/filter.h"
 
 class Wave : public BaseFilter {
 public:

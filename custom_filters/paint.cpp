@@ -1,5 +1,5 @@
 #include "paint.h"
-#include "blur.h"
+#include "../filters/blur.h"
 
 void Paint::Apply(Image& img) {
     Color expexted = {0, 0, 0};

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "filter.h"
+#include "../filters/filter.h"
 
 class Sketch : public BaseFilter {
 public:

@@ -2,7 +2,7 @@
 
 #include "image.h"
 #include "parser.h"
-#include "filter.h"
+#include "filters/filter.h"
 
 class ImageProcessor {
 public:
