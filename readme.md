@@ -7,7 +7,7 @@ Image processor is a simple console application to filter .bmp images.
 ## How to build
 
 Go to cmake `cmake-build-debug` and use command `make ImageProcessor`. 
-You will have executable binary file `ImageProcessor` in the same folder `cmake-build-debug`.
+You will have executable binary file `ImageProcessor` at the same folder `cmake-build-debug`.
 
 ## How to use
 To apply sequence of filters on image use this arguments pattern:
@@ -35,7 +35,7 @@ To get help info just run image processor without any arguments.
 
 `-paint` - make your picture look like painting
 
-`-sketch` - make your picture look like sketch (based on -paint)
+`-sketch` - make your picture look like sketch (based on `-paint`)
 
 `-crop width height` - crop image (`width` and `height` are positive integer numbers)
 
