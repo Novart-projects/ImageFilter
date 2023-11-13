@@ -1,6 +1,6 @@
 #pragma once
 
-#include "../filters/filter.h"
+#include "../basic/filter.h"
 
 class Paint : public BaseFilter {
 public:
